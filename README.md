@@ -1,6 +1,6 @@
 <div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellinsor&show_icons=true&theme=dark-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellinsor&layout=compact&langs_count=16&theme=dark-gats"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellinsor&layout=compact&langs_count=16&theme=dark-gats"/>
 </div>
    
 <div  align="center"> 

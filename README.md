@@ -9,6 +9,21 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <b>Wakatime:</b> Tempo gasto programandos dês de fevereiro de 2023!
+  <div>
+    <img height="180em" 
+      src="https://github-readme-stats-git-master-dioaugust.vercel.app/api/wakatime?username=@DioAugust&langs_count=5&layout=compact&theme=merko&range=all_time"/>
+  </div>
+  
+
+
+</br>
+<div>
+   <img alt="DioAugust Grafico de atividade" src="https://github-readme-activity-graph-red.vercel.app/graph?username=DioAugust&theme=merko&hide_border=true" />
+</div>
+
+</br>
    </div>
  
  

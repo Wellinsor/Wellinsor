@@ -10,7 +10,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <b>Wakatime:</b> Tempo gasto programandos dês de fevereiro de 2023!
+  <b>Wakatime:</b>
   <div>
    
   </div>
